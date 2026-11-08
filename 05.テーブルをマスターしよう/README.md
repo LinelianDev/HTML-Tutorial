@@ -174,7 +174,7 @@ HTMLはスペースや改行を無視するため、同じ内容でも以下の2
 </table>
 ```
 
-<img src="https://github.com/user-attachments/assets/5de85eba-0048-4c74-8029-619eb98cb8e9" width=300>
+<img src="https://github.com/ user-attachments/assets/5de85eba-0048-4c74-8029-619eb98cb8e9" width=300>
 
 - **行ごとにタグをまとめる**: 各行を`tr`タグでグループ化することで、表の構造を明確にし、管理しやすくなります。
 
